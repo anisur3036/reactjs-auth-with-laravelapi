@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.tabSize": 2,
+		"files.associations": {
+			"*.js":"javascriptreact"
+		},
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true
+	}
 }
